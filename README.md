@@ -20,9 +20,7 @@ derivación a un profesional humano.
 
 ## Integrantes
 
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-
+- Gonzalo Ulloa
 ## Stack tecnológico
 
 | Componente | Tecnología |
@@ -94,7 +92,7 @@ automáticamente y se usa la base documental simulada.
 
 ## Arquitectura y orquestación
 
-![Diagrama de orquestación](diagramas/arquitectura_ep2.png)
+![Diagrama de orquestación](/arquitectura_ep2.png)
 
 Flujo de un turno:
 
